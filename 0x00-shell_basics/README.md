@@ -174,6 +174,12 @@ Move the file `betty` from `/tmp/` to `/tmp/my_first_directory`
 
 Delete the file `betty` that is in `/tmp/my_first_directory`
 
+## Task 9: Bye bye my first directory
+
+### Problem
+
+Dete the directory `my_first_directory` that is in `/tmp/`
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
