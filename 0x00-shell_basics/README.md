@@ -168,6 +168,12 @@ Create a script that creates a directory named *my_first_directory* in the */tmp
 
 Move the file `betty` from `/tmp/` to `/tmp/my_first_directory`
 
+## Task 8: Bye bye Betty
+
+### The problem
+
+Delete the file `betty` that is in `/tmp/my_first_directory`
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
