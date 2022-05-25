@@ -134,6 +134,29 @@ Display current directory contents, including hidden files (starting with .). Us
 > 1. display all the current directory contents, including hidden files
 > End
 
+## Task 5. I love numbers
+
+### The problem
+
+Display current directory contents:
+* in Long format
+* with user and group IDs displayed numerically
+* and hidden files (starting with .)
+* the name of the group that owns the file,
+* Date and time of the file's last modification,
+* name of the file.
+
+### Concepts
+
+* No new concepts
+
+### pseudocode & Flowchart
+
+> Begin
+> 1. display all the cited components of the file's content.
+> End
+
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
