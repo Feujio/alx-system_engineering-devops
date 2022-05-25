@@ -201,6 +201,16 @@ Display all the contents (even the hidden files) in long format of the following
 
 Prints the type of a file.
 
+## Task 13. We are symbols, and inhabit symbols
+
+### Problem
+
+Create a symbolic link (in the current working directory) to `/bin/ls` named `__ls__`.
+
+### Concepts
+
+* Symbolic link: reference a file name by multiple names.
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
