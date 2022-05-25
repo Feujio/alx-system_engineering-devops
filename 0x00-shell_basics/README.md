@@ -223,6 +223,12 @@ Crate a script that copies all the HTML files from the current working directory
 
 Move all files beginning with an uppercase letter to the directory `/tmp/u`
 
+## Task 16: Clean Emacs
+
+### Problem
+
+Delete all files in the current working directory that end with the character `~`
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
