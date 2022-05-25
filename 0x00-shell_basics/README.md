@@ -80,6 +80,23 @@ Display the contents list of your current directory. In order words, I should pr
 > 1. print all the files and directories within my current working directory.
 > End
 
+## Task 2: There is no place like home
+
+### The problem
+
+Change the working directory to the user's home directory. In order words, from where I stand in the hierarchical directory structure, I shoud go to the directory represented by the deading slash /.
+
+### Concepts
+
+* Root directory: the specific directory that is represented by the leading slash.
+
+### pseudocode & Flowchart
+
+> Begin
+> 1. Go to directory with pathname /
+> End
+
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
