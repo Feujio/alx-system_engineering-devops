@@ -1,5 +1,5 @@
-# 0x01 Git&Github Padawan
-> A Project from ALX SE program to learn about Git and Github.
+# 0x00 Shell, basics
+> A Project from ALX SE program to learn about __bash__.
 <div align="left">
 
 
@@ -50,19 +50,35 @@ Welcome to this journey!
 
 ### The problem
 
-Print the absolute path name of the current working directory. In order words, I should provide a script to display where I stand in the file system hierarchy tree. This position should include all the steps to find where I stand.
+Print the absolute path name of the current working directory. In order words, I should provide a script to display where I stand in the __hierarchical directory stucture__. This position should include all the steps to find where I stand.
 
 ### Concepts
 
 * Script: a file that the system can execute. It is written in a scripting language: bash, python, ...
 * Absolute path name: a type of path that begins with / character
-* current working directory: where I stand in the file system hierarchy
+* current working directory: where I stand in the hierarchical directory structure
 
 ### pseudocode & Flowchart
 
 > print the path I stand in the file system process
 
 [Flowchart for pwd](https://drive.google.com/file/d/1t1JxCfoODvp-oLnn9judEA5qeiXz7uy1/view?usp=sharing)
+
+## Task 1: What's in there?
+
+### The problem
+
+Display the contents list of your current directory. In order words, I should provide a script to display all the files ans directories within my current working directory.
+
+### Concepts
+
+* Directory: collection of files and directories. It can be empty.
+
+### pseudocode & Flowchart
+
+> Begin
+> 1. print all the files and directories within my current working directory.
+> End
 
 ## Contributing
 
