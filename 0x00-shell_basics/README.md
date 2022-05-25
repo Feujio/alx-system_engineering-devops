@@ -118,6 +118,21 @@ Display current directory contents in a long format. In order words, display cur
 > 1. display all the cited components of the file's content.
 > End
 
+## Task 4: Hidden files
+
+### The problem
+
+Display current directory contents, including hidden files (starting with .). Use the long format.
+
+### Concepts
+
+* Hidden files: files with name that starts with .
+
+### pseudocode & Flowchart
+
+> Begin
+> 1. display all the current directory contents, including hidden files
+> End
 
 ## Contributing
 
