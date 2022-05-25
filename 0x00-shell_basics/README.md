@@ -228,6 +228,11 @@ Move all files beginning with an uppercase letter to the directory `/tmp/u`
 ### Problem
 
 Delete all files in the current working directory that end with the character `~`
+## Task 17: Tree
+
+### Problem
+
+Create 3 directories with one command
 
 ## Contributing
 
