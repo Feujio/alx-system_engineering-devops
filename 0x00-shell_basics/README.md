@@ -156,6 +156,12 @@ Display current directory contents:
 > 1. display all the cited components of the file's content.
 > End
 
+## Task 6: Welcome
+
+### The problem
+
+Create a script that creates a directory named *my_first_directory* in the */tmp/* directory
+
 
 ## Contributing
 
