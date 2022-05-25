@@ -96,6 +96,28 @@ Change the working directory to the user's home directory. In order words, from 
 > 1. Go to directory with pathname /
 > End
 
+## Task 3: The long format
+
+### The problem
+
+Display current directory contents in a long format. In order words, display current directory contents with the following components: 
+* access rights to the file, 
+* the number of hards links, 
+* the file's owner username,
+* the name of the group that owns the file,
+* Date and time of the file's last modification,
+* name of the file.
+
+### Concepts
+
+* long format content of a file
+
+### pseudocode & Flowchart
+
+> Begin
+> 1. display all the cited components of the file's content.
+> End
+
 
 ## Contributing
 
