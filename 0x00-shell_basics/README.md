@@ -180,6 +180,12 @@ Delete the file `betty` that is in `/tmp/my_first_directory`
 
 Dete the directory `my_first_directory` that is in `/tmp/`
 
+## Task 10: Back to the future
+
+### Problem
+
+Change the working directory to the previous one
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
