@@ -211,6 +211,12 @@ Create a symbolic link (in the current working directory) to `/bin/ls` named `__
 
 * Symbolic link: reference a file name by multiple names.
 
+## task 14. Copy HTML files
+
+### Problem
+
+Crate a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directorry or were newer than the versions in the parent of the working directory.
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
