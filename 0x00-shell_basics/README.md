@@ -195,6 +195,12 @@ Display all the contents (even the hidden files) in long format of the following
 * the parent of the working directory
 * `/boot` directory
 
+## Task 12. File type
+
+### Problem
+
+Prints the type of a file.
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
