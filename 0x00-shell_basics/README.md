@@ -186,6 +186,15 @@ Dete the directory `my_first_directory` that is in `/tmp/`
 
 Change the working directory to the previous one
 
+## Task 11. Lists
+
+### The problem
+
+Display all the contents (even the hidden files) in long format of the following directories:
+* current directory
+* the parent of the working directory
+* `/boot` directory
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
