@@ -217,6 +217,12 @@ Create a symbolic link (in the current working directory) to `/bin/ls` named `__
 
 Crate a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directorry or were newer than the versions in the parent of the working directory.
 
+## Task 15: Let's move
+
+### Problem
+
+Move all files beginning with an uppercase letter to the directory `/tmp/u`
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
