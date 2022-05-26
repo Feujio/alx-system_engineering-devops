@@ -246,6 +246,12 @@ List all the files and directories of the current directory, separated by commas
 * You can assume that all the files we will test with will have at least one letter or one digit
 * The listing should end with a new line
 
+## Task 19: Filetype: School
+
+### Problem
+
+Create a magic file `school.mgc` that can be used with `file` to detect `School` data files.
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
