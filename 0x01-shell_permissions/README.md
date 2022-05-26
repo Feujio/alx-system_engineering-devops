@@ -9,6 +9,7 @@ In this project, I learn shell permissions. I should bother studying this topic 
 * 2-groups: prints all the groups the current user is part of
 * 3-new_owner: change the owner of the file `hello` to the user `betty`
 * 4-empty: create an empty file called `hello`
+* 5-execute: adds execute permission to the owner of the file `hello`
 
 ## License
 None.
