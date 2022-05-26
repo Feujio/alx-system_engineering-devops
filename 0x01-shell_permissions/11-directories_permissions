@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod --preserve-root +x .
+sudo chmod --preserve-root -R +x .
