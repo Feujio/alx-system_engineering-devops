@@ -29,6 +29,7 @@ In this project, I will explore a powerful feature used by command line programs
   1 Input format: One line, one word
   2 Output format: One line, one word
   3 Words should be sorted
+* 14-findthatword: display lines containing the pattern `root` from the file `/etc/passwd`
 
 ## License
 None.
