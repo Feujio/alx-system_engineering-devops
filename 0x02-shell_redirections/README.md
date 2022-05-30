@@ -37,6 +37,7 @@ In this project, I will explore a powerful feature used by command line programs
 * 19-AZ: repace all caharcters `A` and `c` from input to `Z` and `e` respectively
 * 20-hiago: removes all letters `c` and `C` from input
 * 21-reverse: reverse its input
+* 22-users_and_homes: displays all users and their home directories, sorted by users
 
 ## License
 None.
