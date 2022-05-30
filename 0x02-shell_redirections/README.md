@@ -30,6 +30,7 @@ In this project, I will explore a powerful feature used by command line programs
   2 Output format: One line, one word
   3 Words should be sorted
 * 14-findthatword: display lines containing the pattern `root` from the file `/etc/passwd`
+* 15-countthatword: display the number of lines with an occurence of the pattern `bin` in the file `/etc/passwd`
 
 ## License
 None.
