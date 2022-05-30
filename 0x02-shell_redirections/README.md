@@ -33,6 +33,7 @@ In this project, I will explore a powerful feature used by command line programs
 * 15-countthatword: display the number of lines with an occurence of the pattern `bin` in the file `/etc/passwd`
 * 16-whatsnext: display lines containing the pattern `root` and 3 lines after them in the file `/etc/passwd`
 * 17-hidethisword: displays all the lines in the file `/etc/passwd` that do not contain the pattern "bin"
+* 18-letteronly: displays all lines of the file `etc/shh/sshd_config` starting with a letter
 
 ## License
 None.
