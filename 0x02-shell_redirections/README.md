@@ -6,6 +6,7 @@ In this project, I will explore a powerful feature used by command line programs
 ## What each scripts do?
 
 * 0-hello_world: prints "Hello, World", followed by a new line to the standard output
+* 1-confused_smiley:  displays aconfused smiley "(Ôo)'
 
 ## License
 None.
