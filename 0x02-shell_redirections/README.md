@@ -36,6 +36,7 @@ In this project, I will explore a powerful feature used by command line programs
 * 18-letteronly: displays all lines of the file `etc/shh/sshd_config` starting with a letter
 * 19-AZ: repace all caharcters `A` and `c` from input to `Z` and `e` respectively
 * 20-hiago: removes all letters `c` and `C` from input
+* 21-reverse: reverse its input
 
 ## License
 None.
