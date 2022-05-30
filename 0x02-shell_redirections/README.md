@@ -24,6 +24,11 @@ In this project, I will explore a powerful feature used by command line programs
 
   1 One file per line
   2 Sorted from the newest to the oldest
+* 13-unique: takes a list of words as input and prints only words that appear exactly once.
+
+  1 Input format: One line, one word
+  2 Output format: One line, one word
+  3 Words should be sorted
 
 ## License
 None.
